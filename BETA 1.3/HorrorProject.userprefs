@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs">
+    <Files>
+      <File FileName="Assets\QuitScript.js" Line="24" Column="20" />
+      <File FileName="Assets\PlayScript.js" Line="1" Column="1" />
+      <File FileName="Assets\CheatCrash.js" Line="1" Column="1" />
+      <File FileName="Assets\Crash2.js" Line="1" Column="1" />
+      <File FileName="Assets\CheatQuit.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\PS1T.js" Line="1" Column="1" />
+      <File FileName="Assets\PlaySound.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayStationStory.js" Line="1" Column="1" />
+      <File FileName="Assets\TRIGDE.js" Line="1" Column="1" />
+      <File FileName="Assets\Trigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Hello.js" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
